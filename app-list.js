@@ -28,5 +28,5 @@ export const APP_LIST = {
     "tumblr": {pkgName: "com.tumblr", urlScheme: "tumblr", urlParams: "x-callback-url/dashboard"}, // fa
     "flickr": {pkgName: "com.yahoo.mobile.client.android.flickr", urlScheme: "flickr", urlParams: ""}, // fa
     "linkedin": {pkgName: "com.linkedin.android", urlScheme: "linkedin", urlParams: ""},
-    "waze": {pkgName: "come.waze", urlScheme: "waze", urlParams: ""}
+    "waze": {pkgName: "com.waze", urlScheme: "waze", urlParams: ""}
 };
